@@ -1,0 +1,1 @@
+# codewars trainings solved with Java
