@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// 6kyu Detect Pangram
 public class PangramChecker {
 
     public boolean check(String sentence){
