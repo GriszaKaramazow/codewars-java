@@ -1,3 +1,4 @@
+// 6kyu Tribonacci Sequence
 public class Xbonacci {
 
     public double[] tribonacci(double[] s, int n) {
