@@ -1,4 +1,5 @@
 // 6kyu Tribonacci Sequence
+// https://www.codewars.com/kata/585d7d5adb20cf33cb000235
 public class Xbonacci {
 
     public double[] tribonacci(double[] s, int n) {

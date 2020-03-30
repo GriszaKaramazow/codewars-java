@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // 6kyu Detect Pangram
+// https://www.codewars.com/kata/545cedaa9943f7fe7b000048
 public class PangramChecker {
 
     public boolean check(String sentence){
