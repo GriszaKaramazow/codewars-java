@@ -1,5 +1,7 @@
 # codewars trainings solved with Java
 
+* [5kyu Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+
 * [5kyu Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 
 * [6kyu Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
