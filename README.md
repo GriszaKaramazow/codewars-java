@@ -1,5 +1,7 @@
 # codewars trainings solved with Java
 
+* [5kyu int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e)
+
 * [5kyu Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 
 * [5kyu Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
